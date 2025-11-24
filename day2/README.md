@@ -1,6 +1,6 @@
 <h1>Basic linux commands</h1>
 
-<h1>ls option_flag arguments --> list the sub directories and files avaiable in the present directory</h1>
+```ls option_flag arguments``` --> list the sub directories and files avaiable in the present directory
 
 <h1>Examples:</h1>
 
