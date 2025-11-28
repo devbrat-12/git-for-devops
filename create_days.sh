@@ -1,6 +1,5 @@
 #!/bin/bash
-for i in {5..90}; do
-  mkdir "day$i"
-  touch "day$i/README.md"
+for i in {1..9}; do
+  mv "day$i" "day0$i"
 done
 
